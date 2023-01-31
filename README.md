@@ -1,7 +1,7 @@
 # Pokemon-Pitch-Black-GBA
 An insane Who's That Pokemon type romhack for Pokemon FireRed!
 
-Produced by Arex: [Arex's Twitch](https://twitch.tv/Arex) | [Arex's Twitter](https://twitter.com/ArexBold)
+Produced by Arex: [Arex's Twitch](https://twitch.tv/Arex) | [Arex's Twitter](https://twitter.com/ArexBold)<br />
 Dev by Archie: [Archie's Twitter](https://twitter.com/TeamAquaArchie_) 
 
 ## Features
