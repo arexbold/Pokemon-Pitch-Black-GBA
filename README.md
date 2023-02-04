@@ -21,7 +21,7 @@ Dev by Archie: [Archie's Twitter](https://twitter.com/TeamAquaArchie_)
 5. It will download the patched version.
 
 ## Randomizer:
-In order to get a randomizer to work with this romhack we had to make a modified version of UPR in order for it to work. Credit to UPR goes to 
+In order to get a randomizer to work with this romhack we had to make a modified version of UPR in order for it to work. Credit to UPR goes to [https://github.com/Dabomstew/UPR-Speedchoice](https://github.com/Dabomstew/UPR-Speedchoice)
 
 ## Known Issues:
 1. Depending on the emulator you use, it's possible for the game to freeze but is rare. Save often so you don't lose anything!
